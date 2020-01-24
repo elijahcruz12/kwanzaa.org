@@ -1,0 +1,7 @@
+/*@media to resize contact links when on smaller devices (i.e. phones in portrait mode) in order to allow them to viewed without wrapping and without going over the edge of the screen. */
+
+@media only screen and (max-width: 498px) {
+  .contact-link{
+    font-size: 4.3vw;
+  }
+}
